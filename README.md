@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jeremy John R. Orlina</h1>
+<h1 align="center">Hi, I'm Jeremy John R. Orlina</h1>
 <h3 align="center">I'm from Marikina City</h3>
 
 - 🔭 I’m currently studying at **TIP QC**
